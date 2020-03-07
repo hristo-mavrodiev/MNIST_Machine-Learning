@@ -3,5 +3,5 @@ Machine learning algorithms over the MNIST dataset
 
 
 
-![mnist]('img/example.png')  
+![mnist](img/example.png)  
   
